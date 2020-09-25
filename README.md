@@ -53,6 +53,7 @@ Besides, the MiniBuy web app also provides Ads API for loading advertisements.
    - Customers
         ![Customer Tables](https://raw.githubusercontent.com/brisingr2012/OnlineShop/master/images/MySQL_Customer.PNG "Customer")
    - etc...
+   
 ## Ads System
 - Bidding System
       Search Ads: multiple advertisers bid on keywords that are relevant to the search query.
